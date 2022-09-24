@@ -2,10 +2,11 @@ body {
     background-color: rgb(222, 129, 86);
 }
 h1 {
-    color: purple;
+    color: whitesmoke;
+    background-color: grey;
 }
 p {
-    color: black;
+    color: white;
 }
 button {
     background-color: blue;
