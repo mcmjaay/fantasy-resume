@@ -41,3 +41,14 @@ footer {
   .btn-primary {
     height: 10%;
   }
+  #title {
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .search {
+    align-items: center;
+  }
+  h6 {
+    font-size: 8pt;
+  }
